@@ -3,7 +3,7 @@ MIT 6.036 Study
 
 本仓库目录
 
-* [Numpy学习]()
+* [Numpy学习](https://github.com/GVD-Net-dev/MIT-6.036-Study/blob/main/Numpy%20Study.md)
 
 ## 一.相关文章文献
 
