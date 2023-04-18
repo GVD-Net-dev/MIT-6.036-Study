@@ -4,6 +4,7 @@
 本仓库目录
 * [Python基础](https://github.com/GVD-Net-dev/MIT-6.036-Study/blob/main/python%20%E5%9F%BA%E7%A1%80.ipynb)
 * [Numpy学习](https://github.com/GVD-Net-dev/MIT-6.036-Study/blob/main/Numpy%20Study.md)
+* [Github上一个不错的机器学习教程](https://github.com/MorvanZhou/tutorials)
 
 ## 一.相关文章文献
 
